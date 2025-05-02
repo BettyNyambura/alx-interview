@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Minimum operations Python challenge
@@ -32,4 +31,3 @@ def minOperations(n):
             operations += 1
 
     return operations
-
