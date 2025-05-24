@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Solution to the nqueens puzzle
+Solution to the nqueens puzzl
 """
 import sys
 
